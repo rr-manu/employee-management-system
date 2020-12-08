@@ -1,0 +1,18 @@
+p{
+    text-align: center;
+    }
+    h3{
+    text-align: left;
+    }
+    .special{
+    margin-right: 60px;
+    margin-left: 60px;
+    }
+    h1{
+    text-align: center;
+    text-decoration: underline;
+    }
+
+    #outer{
+        padding-left: 50px;
+    }
