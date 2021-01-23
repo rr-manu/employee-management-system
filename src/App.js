@@ -3,6 +3,7 @@ import employeeList from './Pages/employeeList/employeeList';
 import employee from './Pages/employee/employee';
 // import About from './components/About';
 // import Shop from './components/Shop';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom';
 
